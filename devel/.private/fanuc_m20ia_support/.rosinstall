@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/user_robohub3/catkin_ws/devel/.private/fanuc_m20ia_support/setup.sh

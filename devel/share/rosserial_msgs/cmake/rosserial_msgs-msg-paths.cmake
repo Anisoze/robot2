@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/rosserial_msgs/share/rosserial_msgs/cmake/rosserial_msgs-msg-paths.cmake

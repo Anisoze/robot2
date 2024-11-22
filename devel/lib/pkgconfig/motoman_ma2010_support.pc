@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/motoman_ma2010_support/lib/pkgconfig/motoman_ma2010_support.pc

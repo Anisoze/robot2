@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/rosserial_arduino/share/rosserial_arduino/cmake/rosserial_arduino-extras.cmake

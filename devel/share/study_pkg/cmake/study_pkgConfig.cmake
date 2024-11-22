@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/study_pkg/share/study_pkg/cmake/study_pkgConfig.cmake

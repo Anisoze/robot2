@@ -1,0 +1,8 @@
+prefix=/home/user_robohub3/catkin_ws/install
+
+Name: planning_system
+Description: Description of planning_system
+Version: 0.5.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

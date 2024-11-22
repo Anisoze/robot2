@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/fanuc_custom_pkg/lib/pkgconfig/fanuc_custom_pkg.pc

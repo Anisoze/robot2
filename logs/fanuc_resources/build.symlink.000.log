@@ -1,0 +1,3 @@
+Symlinking /home/user_robohub3/catkin_ws/devel/lib/pkgconfig/fanuc_resources.pc
+Symlinking /home/user_robohub3/catkin_ws/devel/share/fanuc_resources/cmake/fanuc_resourcesConfig-version.cmake
+Symlinking /home/user_robohub3/catkin_ws/devel/share/fanuc_resources/cmake/fanuc_resourcesConfig.cmake

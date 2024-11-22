@@ -1,0 +1,5 @@
+study_pkg
+/home/user_robohub3/catkin_ws/devel/.private/study_pkg/cmake.lock /home/user_robohub3/catkin_ws/devel/./cmake.lock
+/home/user_robohub3/catkin_ws/devel/.private/study_pkg/lib/pkgconfig/study_pkg.pc /home/user_robohub3/catkin_ws/devel/lib/pkgconfig/study_pkg.pc
+/home/user_robohub3/catkin_ws/devel/.private/study_pkg/share/study_pkg/cmake/study_pkgConfig-version.cmake /home/user_robohub3/catkin_ws/devel/share/study_pkg/cmake/study_pkgConfig-version.cmake
+/home/user_robohub3/catkin_ws/devel/.private/study_pkg/share/study_pkg/cmake/study_pkgConfig.cmake /home/user_robohub3/catkin_ws/devel/share/study_pkg/cmake/study_pkgConfig.cmake

@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/motoman_mpx3500_support/lib/pkgconfig/motoman_mpx3500_support.pc

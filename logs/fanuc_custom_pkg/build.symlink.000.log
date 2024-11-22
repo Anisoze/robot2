@@ -1,0 +1,3 @@
+Symlinking /home/user_robohub3/catkin_ws/devel/lib/pkgconfig/fanuc_custom_pkg.pc
+Symlinking /home/user_robohub3/catkin_ws/devel/share/fanuc_custom_pkg/cmake/fanuc_custom_pkgConfig.cmake
+Symlinking /home/user_robohub3/catkin_ws/devel/share/fanuc_custom_pkg/cmake/fanuc_custom_pkgConfig-version.cmake

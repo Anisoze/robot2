@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/abb_irb52_support/share/abb_irb52_support/cmake/abb_irb52_supportConfig.cmake

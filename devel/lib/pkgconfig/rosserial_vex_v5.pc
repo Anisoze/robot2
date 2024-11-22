@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/rosserial_vex_v5/lib/pkgconfig/rosserial_vex_v5.pc

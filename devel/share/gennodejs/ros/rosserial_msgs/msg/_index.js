@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/rosserial_msgs/share/gennodejs/ros/rosserial_msgs/msg/_index.js

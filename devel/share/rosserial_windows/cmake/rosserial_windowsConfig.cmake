@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/rosserial_windows/share/rosserial_windows/cmake/rosserial_windowsConfig.cmake

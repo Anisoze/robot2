@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/rosserial_mbed/share/roseus/ros/rosserial_mbed/msg/Adc.l

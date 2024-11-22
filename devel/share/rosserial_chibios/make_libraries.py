@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/rosserial_chibios/share/rosserial_chibios/make_libraries.py

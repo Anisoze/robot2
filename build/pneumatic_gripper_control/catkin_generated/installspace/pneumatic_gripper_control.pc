@@ -1,0 +1,8 @@
+prefix=/home/user_robohub3/catkin_ws/install
+
+Name: pneumatic_gripper_control
+Description: Description of pneumatic_gripper_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

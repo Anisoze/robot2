@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/pneumatic_gripper_control/lib/pkgconfig/pneumatic_gripper_control.pc

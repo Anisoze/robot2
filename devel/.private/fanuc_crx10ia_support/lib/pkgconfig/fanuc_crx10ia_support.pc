@@ -1,0 +1,8 @@
+prefix=/home/user_robohub3/catkin_ws/devel/.private/fanuc_crx10ia_support
+
+Name: fanuc_crx10ia_support
+Description: Description of fanuc_crx10ia_support
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
