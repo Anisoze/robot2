@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/study_pkg_2/lib/pkgconfig/study_pkg_2.pc

@@ -1,0 +1,8 @@
+prefix=/home/user_robohub3/catkin_ws/install
+
+Name: study_pkg_2
+Description: Description of study_pkg_2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
