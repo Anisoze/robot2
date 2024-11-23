@@ -1,0 +1,3 @@
+Symlinking /home/user_robohub3/catkin_ws/devel/lib/pkgconfig/detection_pkg.pc
+Symlinking /home/user_robohub3/catkin_ws/devel/share/detection_pkg/cmake/detection_pkgConfig-version.cmake
+Symlinking /home/user_robohub3/catkin_ws/devel/share/detection_pkg/cmake/detection_pkgConfig.cmake

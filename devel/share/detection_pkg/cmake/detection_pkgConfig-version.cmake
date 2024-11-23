@@ -1,0 +1,1 @@
+/home/user_robohub3/catkin_ws/devel/.private/detection_pkg/share/detection_pkg/cmake/detection_pkgConfig-version.cmake

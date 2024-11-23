@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/user_robohub3/catkin_ws/devel/.private/planning_system:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/user_robohub3/catkin_ws/devel/.private/planning_system/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/user_robohub3/catkin_ws/devel/.private/planning_system/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/user_robohub3/catkin_ws/build/planning_system'
 export ROSLISP_PACKAGE_DIRECTORIES="/home/user_robohub3/catkin_ws/devel/.private/planning_system/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/user_robohub3/catkin_ws/src/moveit_experiments/planning_system:$ROS_PACKAGE_PATH"

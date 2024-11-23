@@ -1,0 +1,8 @@
+prefix=/home/user_robohub3/catkin_ws/install
+
+Name: fanuc_custom_moveit_config
+Description: Description of fanuc_custom_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
