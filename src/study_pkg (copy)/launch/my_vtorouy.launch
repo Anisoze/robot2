@@ -1,0 +1,8 @@
+<launch>
+    <node name="receiver" pkg="study_pkg" type="receiver.py" output="screen">
+        <remap from="chatter" to="my_topic"/>
+    </node>
+    <node name="sender" pkg="study_pkg" type="sender.py" output="screen">
+        <remap from="chatter" to="my_topic"/>
+    </node>
+</launch>
